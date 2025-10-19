@@ -58,7 +58,7 @@
 
 
 
-        const contractAddress = "0x84E1f1476cDE9Edb7fD51d37D62B4EAE3155E408";  // Replace this after deployment
+        const contractAddress = "0xCC93DDcCE5a5Ad34948F5d49d0F8157580C74610";  // Replace this after deployment
 
         const abi = [
 
